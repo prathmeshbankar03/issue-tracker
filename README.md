@@ -7,20 +7,20 @@
 | # | Issue | State |
 |---|-------|-------|
 | 1 | [Naya Issue Aya](https://github.com/prathmeshbankar03/issue-tracker/issues/13) | open 🔓 |
-| 2 | [issue-trackerrrrrr](https://github.com/prathmeshbankar03/issue-tracker/issues/12) | open 🔓 |
-| 3 | [Test Issue](https://github.com/prathmeshbankar03/issue-tracker/issues/10) | open 🔓 |
-| 4 | [Test Issue #7](https://github.com/prathmeshbankar03/issue-tracker/issues/7) | open 🔓 |
-| 5 | [Test Issue #6](https://github.com/prathmeshbankar03/issue-tracker/issues/6) | open 🔓 |
-| 6 | [Test Issue #4](https://github.com/prathmeshbankar03/issue-tracker/issues/4) | open 🔓 |
-| 7 | [Test Issue #2](https://github.com/prathmeshbankar03/issue-tracker/issues/2) | open 🔓 |
-| 8 | [Test Issue #1](https://github.com/prathmeshbankar03/issue-tracker/issues/1) | open 🔓 |
+| 2 | [Test Issue](https://github.com/prathmeshbankar03/issue-tracker/issues/10) | open 🔓 |
+| 3 | [Test Issue #7](https://github.com/prathmeshbankar03/issue-tracker/issues/7) | open 🔓 |
+| 4 | [Test Issue #6](https://github.com/prathmeshbankar03/issue-tracker/issues/6) | open 🔓 |
+| 5 | [Test Issue #4](https://github.com/prathmeshbankar03/issue-tracker/issues/4) | open 🔓 |
+| 6 | [Test Issue #2](https://github.com/prathmeshbankar03/issue-tracker/issues/2) | open 🔓 |
+| 7 | [Test Issue #1](https://github.com/prathmeshbankar03/issue-tracker/issues/1) | open 🔓 |
 
 ### Closed Issues
 
 | # | Issue | State |
 |---|-------|-------|
-| 1 | [code is wrong](https://github.com/prathmeshbankar03/issue-tracker/issues/11) | closed 🔒 |
-| 2 | [Test Issue #9](https://github.com/prathmeshbankar03/issue-tracker/issues/9) | closed 🔒 |
-| 3 | [TEST ISSUE #8](https://github.com/prathmeshbankar03/issue-tracker/issues/8) | closed 🔒 |
-| 4 | [Test Issue #5](https://github.com/prathmeshbankar03/issue-tracker/issues/5) | closed 🔒 |
-| 5 | [Test Issue #3](https://github.com/prathmeshbankar03/issue-tracker/issues/3) | closed 🔒 |
+| 1 | [issue-trackerrrrrr](https://github.com/prathmeshbankar03/issue-tracker/issues/12) | closed 🔒 |
+| 2 | [code is wrong](https://github.com/prathmeshbankar03/issue-tracker/issues/11) | closed 🔒 |
+| 3 | [Test Issue #9](https://github.com/prathmeshbankar03/issue-tracker/issues/9) | closed 🔒 |
+| 4 | [TEST ISSUE #8](https://github.com/prathmeshbankar03/issue-tracker/issues/8) | closed 🔒 |
+| 5 | [Test Issue #5](https://github.com/prathmeshbankar03/issue-tracker/issues/5) | closed 🔒 |
+| 6 | [Test Issue #3](https://github.com/prathmeshbankar03/issue-tracker/issues/3) | closed 🔒 |
