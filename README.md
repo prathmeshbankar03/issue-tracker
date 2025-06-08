@@ -6,13 +6,14 @@
 
 | # | Issue | State |
 |---|-------|-------|
-| 1 | [Naya Issue Aya](https://github.com/prathmeshbankar03/issue-tracker/issues/13) | open 🔓 |
-| 2 | [Test Issue](https://github.com/prathmeshbankar03/issue-tracker/issues/10) | open 🔓 |
-| 3 | [Test Issue #7](https://github.com/prathmeshbankar03/issue-tracker/issues/7) | open 🔓 |
-| 4 | [Test Issue #6](https://github.com/prathmeshbankar03/issue-tracker/issues/6) | open 🔓 |
-| 5 | [Test Issue #4](https://github.com/prathmeshbankar03/issue-tracker/issues/4) | open 🔓 |
-| 6 | [Test Issue #2](https://github.com/prathmeshbankar03/issue-tracker/issues/2) | open 🔓 |
-| 7 | [Test Issue #1](https://github.com/prathmeshbankar03/issue-tracker/issues/1) | open 🔓 |
+| 1 | [angu bingu](https://github.com/prathmeshbankar03/issue-tracker/issues/14) | open 🔓 |
+| 2 | [Naya Issue Aya](https://github.com/prathmeshbankar03/issue-tracker/issues/13) | open 🔓 |
+| 3 | [Test Issue](https://github.com/prathmeshbankar03/issue-tracker/issues/10) | open 🔓 |
+| 4 | [Test Issue #7](https://github.com/prathmeshbankar03/issue-tracker/issues/7) | open 🔓 |
+| 5 | [Test Issue #6](https://github.com/prathmeshbankar03/issue-tracker/issues/6) | open 🔓 |
+| 6 | [Test Issue #4](https://github.com/prathmeshbankar03/issue-tracker/issues/4) | open 🔓 |
+| 7 | [Test Issue #2](https://github.com/prathmeshbankar03/issue-tracker/issues/2) | open 🔓 |
+| 8 | [Test Issue #1](https://github.com/prathmeshbankar03/issue-tracker/issues/1) | open 🔓 |
 
 ### Closed Issues
 
